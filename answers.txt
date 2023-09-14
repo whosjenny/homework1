@@ -1,0 +1,7 @@
+(progress branch) 
+What is a remote repository?
+
+A remote repository is a version of your coding project that is 
+stored onlnie rather than locally. However, you and other people can
+still have local version of the project to work on and then push
+the changes you made onto the remote repository. 
